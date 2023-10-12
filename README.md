@@ -30,7 +30,7 @@ If you use or mention this work in your research, please consider the following 
 archivePrefix = {arXiv},
 arxivId = {2308.05640},
 author = {Huang, Yansong and Zhang, Zherui and Jiao, Ao and Ma, Yuxin and Cheng, Ran},
-journal = {IEEE Transactions on Visualization and Computer Graphics},
+journal = {IEEE Transactions on Visualization and Computer Graphics (To appear)},
 title = {A Comparative Visual Analytics Framework for Evaluating Evolutionary Processes in Multi-objective Optimization},
 url = {http://arxiv.org/abs/2308.05640},
 year = {2023}
