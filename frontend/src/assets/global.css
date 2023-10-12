@@ -1,0 +1,43 @@
+body {
+  font-family: var(--font-family);
+  font-size: var(--font-size-m);
+  margin: 0;
+}
+
+h4 {
+  font-size: var(--font-size-l);
+}
+
+:root {
+  --shadow          : 0 0 0.15vh rgba(0, 0, 0, 0.15), 0 0.15vh 0.30vh rgba(0, 0, 0, 0.30);
+  --space           : 0.60vh;
+  --radius          : 0.30vh;
+  --frame-size      : 14.0vh;
+  --font-size-m     : 1.05vh;
+  --font-size-l     : 1.25vh;
+  --title-height    : 3.00vh;
+  --scrollbar-size  : 0.30vh;
+  --color-dark      : #242424;
+  --color-light     : #FFFFFF;
+  --color-gray      : #D6D6D6;
+  --color-light-gray: #F0F0F0;
+  --font-family     : "Lato", sans-serif;
+}
+
+::-webkit-scrollbar {
+  width : var(--scrollbar-size);
+  height: var(--scrollbar-size);
+}
+
+::-webkit-scrollbar-thumb {
+  background   : var(--color-gray);
+  border-radius: calc(var(--scrollbar-size) / 2);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #707070;
+}
+
+::-webkit-scrollbar-track {
+  background-color: transparent;
+}
