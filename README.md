@@ -1,4 +1,4 @@
-# Comparative Visual Analytics for Evolutionary Processes
+# A Comparative Visual Analytics Framework for Evaluating Evolutionary Processes in Multi-objective Optimization
 
 This is the code repository for the IEEE VIS 2023 paper "A Comparative Visual Analytics Framework for Evaluating Evolutionary Processes in Multi-objective Optimization", an integrated visualization solution for analyzing evolutionary processes with comparative visual analytics methods.
 
