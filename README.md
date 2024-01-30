@@ -27,12 +27,14 @@ If you use or mention this work in your research, please consider the following 
 
 ```BibTeX
 @article{Huang2023emo,
-archivePrefix = {arXiv},
-arxivId = {2308.05640},
 author = {Huang, Yansong and Zhang, Zherui and Jiao, Ao and Ma, Yuxin and Cheng, Ran},
-journal = {IEEE Transactions on Visualization and Computer Graphics (To appear)},
-title = {A Comparative Visual Analytics Framework for Evaluating Evolutionary Processes in Multi-objective Optimization},
-url = {http://arxiv.org/abs/2308.05640},
-year = {2023}
+journal = {IEEE Transactions on Visualization and Computer Graphics},
+title = {A Comparative Visual Analytics Framework for Evaluating Evolutionary Processes in Multi-Objective Optimization},
+url = {https://ieeexplore.ieee.org/abstract/document/10294213},
+year = {2024},
+volume = {30},
+number = {1},
+pages = {661-671},
+doi = {10.1109/TVCG.2023.3326921}
 }
 ```
